@@ -1,0 +1,8 @@
+spring: 
+  application:
+    name: porfolio-java
+  datasource: 
+    url: jdbc:h2:mem:portJavaDB
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: ""
